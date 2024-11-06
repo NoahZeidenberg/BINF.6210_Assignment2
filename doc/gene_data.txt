@@ -1,0 +1,2254 @@
+
+1. SHH
+Interim Symbol: SHH and Name: sonic hedgehog [Gallus gallus (chicken)]
+Other Aliases: ShhNC
+Other Designations: sonic hedgehog protein; shh unprocessed N-terminal signaling and C-terminal autoprocessing domains; sonic hedgehog homolog
+Chromosome: 2
+Annotation: Chromosome 2 NC_052533.1 (8087761..8097333, complement)
+ID: 395615
+
+2. BMP4
+Official Symbol: BMP4 and Name: bone morphogenetic protein 4 [Gallus gallus (chicken)]
+Other Aliases: BMP-4
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_052536.1 (58328250..58331110, complement)
+ID: 396165
+
+3. FGF2
+Interim Symbol: FGF2 and Name: fibroblast growth factor 2 [Gallus gallus (chicken)]
+Other Aliases: BFGF, FGF-2, HBGF-2
+Other Designations: fibroblast growth factor 2; basic fibroblast growth factor; fibroblast growth factor 2 (basic); heparin-binding growth factor 2
+Chromosome: 4
+Annotation: Chromosome 4 NC_052535.1 (53088595..53118677, complement)
+ID: 396413
+
+4. FGF8
+Interim Symbol: FGF8 and Name: fibroblast growth factor 8 [Gallus gallus (chicken)]
+Other Aliases: FGF-8
+Other Designations: fibroblast growth factor 8; HBGF-8; fibroblast growth factor 8 (androgen-induced); heparin-binding growth factor 8
+Chromosome: 6
+Annotation: Chromosome 6 NC_052537.1 (23501490..23509886)
+ID: 396313
+
+5. PAX6
+Interim Symbol: PAX6 and Name: paired box 6 [Gallus gallus (chicken)]
+Other Aliases: PAX-6
+Other Designations: paired box protein Pax-6; paired box gene 6
+Chromosome: 5
+Annotation: Chromosome 5 NC_052536.1 (5398323..5415898, complement)
+ID: 395943
+
+6. BMP2
+Official Symbol: BMP2 and Name: bone morphogenetic protein 2 [Gallus gallus (chicken)]
+Other Designations: bone morphogenetic protein 2; BMP-2
+Chromosome: 3
+Annotation: Chromosome 3 NC_052534.1 (14796478..15040250, complement)
+ID: 378779
+
+7. BMP7
+Official Symbol: BMP7 and Name: bone morphogenetic protein 7 [Gallus gallus (chicken)]
+Other Designations: LOW QUALITY PROTEIN: bone morphogenetic protein 7; bone morphogenetic protein 7; bone morphogenetic protein 7 (osteogenic protein 1)
+Chromosome: 20
+Annotation: Chromosome 20 NC_052551.1 (12024248..12068416)
+ID: 395494
+
+8. NOG
+Interim Symbol: NOG and Name: noggin [Gallus gallus (chicken)]
+Other Designations: noggin; cNoggin
+Chromosome: 18
+Annotation: Chromosome 18 NC_052549.1 (6821358..6823072)
+ID: 373912
+
+9. EBF1
+Official Symbol: EBF1 and Name: EBF transcription factor 1 [Gallus gallus (chicken)]
+Other Aliases: EBF
+Other Designations: transcription factor COE1; early B-cell factor 1 protein
+Chromosome: 13
+Annotation: Chromosome 13 NC_052544.1 (10287788..10551209)
+ID: 395512
+
+10. NBL1
+Official Symbol: NBL1 and Name: neuroblastoma 1, DAN family BMP antagonist [Gallus gallus (chicken)]
+Other Aliases: DAN
+Other Designations: neuroblastoma suppressor of tumorigenicity 1; cDAN; cysteine knot secreted protein DAN; neuroblastoma, suppression of tumorigenicity 1
+Chromosome: 21
+Annotation: Chromosome 21 NC_052552.1 (4762283..4771648)
+ID: 373952
+
+11. ZEB1
+Official Symbol: ZEB1 and Name: zinc finger E-box binding homeobox 1 [Gallus gallus (chicken)]
+Other Aliases: TCF8
+Other Designations: zinc finger E-box-binding homeobox 1; TCF-8; delta EF1; delta-crystallin enhancer-binding factor; deltaEF1; transcription factor 8 (represses interleukin 2 expression)
+Chromosome: 2
+Annotation: Chromosome 2 NC_052533.1 (14305732..14411724, complement)
+ID: 396029
+
+12. TSKU
+Interim Symbol: TSKU and Name: tsukushi, small leucine rich proteoglycan [Gallus gallus (chicken)]
+Other Aliases: C-TSK, C-TSKB, EIIH, LRRC54, TSK
+Other Designations: tsukushi; leucine rich repeat containing 54; leucine-rich repeat-containing protein 54; tsukushi B; tsukushi small leucine rich proteoglycan homolog; tsukushin
+Chromosome: 1
+Annotation: Chromosome 1 NC_052532.1 (193295857..193312331, complement)
+ID: 419088
+
+13. TBX22
+Official Symbol: TBX22 and Name: T-box 22 [Gallus gallus (chicken)]
+Other Designations: T-box transcription factor TBX22
+Chromosome: 4
+Annotation: Chromosome 4 NC_052535.1 (1461423..1466607)
+ID: 373895
+
+14. EBF3
+Official Symbol: EBF3 and Name: EBF transcription factor 3 [Gallus gallus (chicken)]
+Other Designations: transcription factor COE3; early B cell factor 3
+Chromosome: 6
+Annotation: Chromosome 6 NC_052537.1 (34940430..35060617, complement)
+ID: 395175
+
+15. FGF7
+Interim Symbol: FGF7 and Name: fibroblast growth factor 7 [Gallus gallus (chicken)]
+Other Designations: fibroblast growth factor 7; fibroblast growth factor 7 (keratinocyte growth factor); keratinocyte growth factor
+Chromosome: 10
+Annotation: Chromosome 10 NC_052541.1 (10561115..10592011)
+ID: 415439
+
+16. EBF2
+Official Symbol: EBF2 and Name: EBF transcription factor 2 [Gallus gallus (chicken)]
+Other Designations: transcription factor COE2; early B-cell factor 2
+Chromosome: 22
+Annotation: Chromosome 22 NC_052553.1 (659387..788147)
+ID: 395176
+
+17. CALR
+Official Symbol: CALR and Name: calreticulin [Gallus gallus (chicken)]
+Other Designations: calreticulin
+Chromosome: 30
+Annotation: Chromosome 30 NC_052561.1 (644470..647759, complement)
+ID: 100859104
+
+18. AHSG
+Official Symbol: AHSG and Name: alpha 2-HS-glycoprotein [Gallus gallus (chicken)]
+Other Aliases: alpha-2-HS-glycoprotein
+Other Designations: alpha 2-HS-glycoprotein; alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_052540.1 (15834251..15840709)
+ID: 424956
+
+19. BMP4
+bone morphogenetic protein 4 [Taeniopygia guttata (zebra finch)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_044217.2 (58857306..58867325)
+ID: 100221891
+
+20. BMP4
+bone morphogenetic protein 4 [Columba livia (rock pigeon)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_088606.1 (4639593..4674187)
+ID: 102098788
+
+21. AHSG
+alpha 2-HS glycoprotein [Aphelocoma coerulescens (scrub jay)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_091023.1 (18500674..18507335)
+ID: 138114459
+
+22. BMP4
+bone morphogenetic protein 4 [Aphelocoma coerulescens (scrub jay)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_091019.1 (65042933..65046021)
+ID: 138111993
+
+23. AHSG
+alpha 2-HS glycoprotein [Anas acuta (northern pintail)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_088987.1 (8922211..8929098, complement)
+ID: 137861138
+
+24. BMP4
+bone morphogenetic protein 4 [Anas acuta (northern pintail)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_088983.1 (3660740..3664756, complement)
+ID: 137856695
+
+25. AHSG
+alpha 2-HS glycoprotein [Nyctibius grandis]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 8
+Annotation: Chromosome 8 NC_090665.1 (9811695..9818542, complement)
+ID: 137666751
+
+26. BMP4
+bone morphogenetic protein 4 [Nyctibius grandis]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 4
+Annotation: Chromosome 4 NC_090661.1 (70223764..70226720)
+ID: 137662439
+
+27. AHSG
+alpha 2-HS glycoprotein [Anomalospiza imberbis]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_089690.1 (8511446..8517840, complement)
+ID: 137479812
+
+28. BMP4
+bone morphogenetic protein 4 [Anomalospiza imberbis]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_089686.1 (3189755..3192849, complement)
+ID: 137475100
+
+29. BMP4
+bone morphogenetic protein 4 [Melanerpes formicivorus (acorn woodpecker)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_027142369.1 (14739460..14742433)
+ID: 137446446
+
+30. AHSG
+alpha 2-HS glycoprotein [Melanerpes formicivorus (acorn woodpecker)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_027142364.1 (8044780..8052342, complement)
+ID: 137444444
+
+31. BMP4
+bone morphogenetic protein 4 [Anser cygnoides (Swan goose)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_089877.1 (63225259..63229143)
+ID: 136791007
+
+32. AHSG
+alpha 2-HS glycoprotein [Molothrus aeneus (bronzed cowbird)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_089655.1 (17464122..17470745)
+ID: 136560821
+
+33. BMP4
+bone morphogenetic protein 4 [Molothrus aeneus (bronzed cowbird)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_089651.1 (60191068..60194052)
+ID: 136557966
+
+34. AHSG
+alpha 2-HS glycoprotein [Sylvia atricapilla (blackcap)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_089149.1 (8347687..8354369, complement)
+ID: 136365410
+
+35. BMP4
+bone morphogenetic protein 4 [Sylvia atricapilla (blackcap)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_089145.1 (36967551..36970604, complement)
+ID: 136362743
+
+36. AHSG
+alpha 2-HS glycoprotein [Chamaea fasciata]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_027094096.1 (18414221..18420897)
+ID: 136295145
+
+37. BMP4
+bone morphogenetic protein 4 [Chamaea fasciata]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_027094092.1 (60119442..60122521)
+ID: 136292845
+
+38. AHSG
+alpha 2-HS glycoprotein [Patagioenas fasciata (band-tailed pigeon)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_089055.1 (23119303..23126147, complement)
+ID: 136105390
+
+39. BMP4
+bone morphogenetic protein 4 [Patagioenas fasciata (band-tailed pigeon)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_089051.1 (66637422..66640328, complement)
+ID: 136102200
+
+40. BMP4
+bone morphogenetic protein 4 [Cyrtonyx montezumae (Montezuma quail)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_027071826.1 (4525731..4528349, complement)
+ID: 136056373
+
+41. AHSG
+alpha 2-HS glycoprotein [Cyrtonyx montezumae (Montezuma quail)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_027072056.1 (15398844..15405541)
+ID: 136056043
+
+42. BMP4
+bone morphogenetic protein 4 [Lathamus discolor (Swift parrot)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_088889.1 (15474242..15477131, complement)
+ID: 136017343
+
+43. AHSG
+alpha 2-HS glycoprotein [Lathamus discolor (Swift parrot)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 3
+Annotation: Chromosome 3 NC_088886.1 (30084676..30091341)
+ID: 136010904
+
+44. AHSG
+alpha 2-HS glycoprotein [Caloenas nicobarica (Nicobar pigeon)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 8
+Annotation: Chromosome 8 NC_088252.1 (20680480..20687274, complement)
+ID: 135991596
+
+45. BMP4
+bone morphogenetic protein 4 [Caloenas nicobarica (Nicobar pigeon)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_088249.1 (3695136..3701952)
+ID: 135989286
+
+46. AHSG
+alpha 2-HS glycoprotein [Zonotrichia leucophrys gambelii]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_088179.1 (17237596..17244389)
+ID: 135451618
+
+47. BMP4
+bone morphogenetic protein 4 [Zonotrichia leucophrys gambelii]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_088175.1 (60498132..60501170, complement)
+ID: 135448438
+
+48. AHSG
+alpha 2-HS glycoprotein [Pseudopipra pipra]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_087558.1 (8796142..8802993, complement)
+ID: 135419522
+
+49. BMP4
+bone morphogenetic protein 4 [Pseudopipra pipra]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_087554.1 (62422124..62584528)
+ID: 135416434
+
+50. BMP4
+bone morphogenetic protein 4 [Phalacrocorax carbo (great cormorant)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 9
+Annotation: Chromosome 9 NC_087521.1 (35142785..35145814)
+ID: 135315069
+
+51. BMP4
+bone morphogenetic protein 4 [Passer domesticus (house sparrow)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_087479.1 (8176656..8192361)
+ID: 135302550
+
+52. AHSG
+alpha 2-HS glycoprotein [Passer domesticus (house sparrow)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 11
+Annotation: Chromosome 11 NC_087484.1 (8083404..8089956, complement)
+ID: 135278411
+
+53. AHSG
+alpha 2-HS glycoprotein [Pogoniulus pusillus (Red-fronted tinkerbird)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 26
+Annotation: Chromosome 26 NC_087289.1 (6593094..6600444)
+ID: 135186784
+
+54. BMP4
+bone morphogenetic protein 4 [Pogoniulus pusillus (Red-fronted tinkerbird)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 1
+Annotation: Chromosome 1 NC_087264.1 (1035304..1038247, complement)
+ID: 135176060
+
+55. AHSG
+alpha 2-HS glycoprotein [Prinia subflava (tawny-flanked prinia)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 11
+Annotation: Chromosome 11 NC_086257.1 (17487959..17494645)
+ID: 134556025
+
+56. BMP4
+bone morphogenetic protein 4 [Prinia subflava (tawny-flanked prinia)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_086251.1 (60753432..60756748)
+ID: 134551718
+
+57. AHSG
+alpha 2-HS glycoprotein [Chroicocephalus ridibundus (black-headed gull)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 6
+Annotation: Chromosome 6 NC_086289.1 (75750065..75757042, complement)
+ID: 134517889
+
+58. BMP4
+bone morphogenetic protein 4 [Chroicocephalus ridibundus (black-headed gull)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 4
+Annotation: Chromosome 4 NC_086287.1 (70610958..70613961, complement)
+ID: 134515211
+
+59. AHSG
+alpha 2-HS glycoprotein [Melospiza melodia melodia]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 12
+Annotation: Chromosome 12 NC_086205.1 (20319598..20326231)
+ID: 134423802
+
+60. BMP4
+bone morphogenetic protein 4 [Melospiza melodia melodia]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_086199.1 (3187831..3190844, complement)
+ID: 134420014
+
+
+61. BMP4
+bone morphogenetic protein 4 [Pezoporus occidentalis (night parrot)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_026913857.1 (1767200..1770152)
+ID: 134163547
+
+62. AHSG
+alpha 2-HS glycoprotein [Pezoporus occidentalis (night parrot)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_026916158.1 (13677552..13684232, complement)
+ID: 134155689
+
+63. AHSG
+alpha 2-HS glycoprotein [Rhea pennata]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_084671.1 (10557018..10564026, complement)
+ID: 134144200
+
+64. BMP4
+bone morphogenetic protein 4 [Rhea pennata]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_084667.1 (66338147..66371246)
+ID: 134141517
+
+65. AHSG
+alpha 2-HS glycoprotein [Cinclus cinclus]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_085055.1 (8454193..8460464, complement)
+ID: 134047920
+
+66. BMP4
+bone morphogenetic protein 4 [Cinclus cinclus]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_085051.1 (59790054..59792307)
+ID: 134045293
+
+67. BMP4
+bone morphogenetic protein 4 [Pezoporus flaviventris]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_026892583.1 (11331451..11334407, complement)
+ID: 133273889
+
+68. AHSG
+alpha 2-HS glycoprotein [Pezoporus flaviventris]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_026892561.1 (25400587..25407204)
+ID: 133268767
+
+69. BMP4
+bone morphogenetic protein 4 [Neopsephotus bourkii (Bourke's parrot)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_026900612.1 (68879..71850, complement)
+ID: 133213417
+
+70. AHSG
+alpha 2-HS glycoprotein [Neopsephotus bourkii (Bourke's parrot)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_026901297.1 (82732..89441, complement)
+ID: 133213280
+
+71. AHSG
+alpha 2-HS glycoprotein [Haemorhous mexicanus (house finch)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_082350.1 (18390873..18397577)
+ID: 132331839
+
+72. BMP4
+bone morphogenetic protein 4 [Haemorhous mexicanus (house finch)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_082346.1 (63333196..63336276)
+ID: 132329470
+
+73. AHSG
+alpha 2-HS glycoprotein [Ammospiza nelsoni]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_080642.1 (8355398..8362035, complement)
+ID: 132077499
+
+74. BMP4
+bone morphogenetic protein 4 [Ammospiza nelsoni]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_080638.1 (62148658..62162776)
+ID: 132075074
+
+75. AHSG
+alpha 2-HS glycoprotein [Poecile atricapillus (Black-capped chickadee)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 8
+Annotation: Chromosome 8 NC_081256.1 (19000447..19007070)
+ID: 131581440
+
+76. BMP4
+bone morphogenetic protein 4 [Poecile atricapillus (Black-capped chickadee)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 1
+Annotation: Chromosome 1 NC_081249.1 (178501465..178504812)
+ID: 131574091
+
+77. AHSG
+alpha 2-HS glycoprotein [Ammospiza caudacuta]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 11
+Annotation: Chromosome 11 NC_080603.1 (19660151..19666782)
+ID: 131562569
+
+78. BMP4
+bone morphogenetic protein 4 [Ammospiza caudacuta]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_080598.1 (63311329..63325393)
+ID: 131558921
+
+79. AHSG
+alpha 2-HS glycoprotein [Melospiza georgiana]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_080439.1 (8255320..8261954, complement)
+ID: 131087382
+
+80. BMP4
+bone morphogenetic protein 4 [Melospiza georgiana]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_080435.1 (61381607..61384516)
+ID: 131084790
+
+81. BMP4
+bone morphogenetic protein 4 [Pezoporus wallicus (ground parrot)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_026641953.1 (773364..776274, complement)
+ID: 130608444
+
+82. AHSG
+alpha 2-HS glycoprotein [Pezoporus wallicus (ground parrot)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_026636510.1 (329637..336315)
+ID: 130594492
+
+83. BMP4
+bone morphogenetic protein 4 [Malurus melanocephalus (red-backed fairy wren)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_026623716.1 (228758..242826)
+ID: 130582325
+
+84. AHSG
+alpha 2-HS glycoprotein [Malurus melanocephalus (red-backed fairy wren)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_026623307.1 (1133159..1139888, complement)
+ID: 130574103
+
+85. AHSG
+alpha 2-HS glycoprotein [Oenanthe melanoleuca]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_079343.1 (20402965..20409727, complement)
+ID: 130256754
+
+86. BMP4
+bone morphogenetic protein 4 [Oenanthe melanoleuca]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_079339.1 (57952374..57956862)
+ID: 130254291
+
+87. AHSG
+alpha 2-HS glycoprotein [Falco biarmicus (lanner falcon)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 13
+Annotation: Chromosome 13 NC_079300.1 (10629822..10636616, complement)
+ID: 130157893
+
+88. BMP4
+bone morphogenetic protein 4 [Falco biarmicus (lanner falcon)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 7
+Annotation: Chromosome 7 NC_079294.1 (38791674..38794718, complement)
+ID: 130153094
+
+89. AHSG
+alpha 2-HS glycoprotein [Grus americana (Whooping crane)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_072860.1 (18995182..19002862)
+ID: 129210134
+
+90. BMP4
+bone morphogenetic protein 4 [Grus americana (Whooping crane)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_072856.1 (67013310..67016365)
+ID: 129206951
+
+91. AHSG
+alpha 2-HS glycoprotein [Agelaius phoeniceus (red-winged blackbird)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_071683.1 (8305783..8312036, complement)
+ID: 129124580
+
+92. BMP4
+bone morphogenetic protein 4 [Agelaius phoeniceus (red-winged blackbird)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_071679.1 (61062320..61064491)
+ID: 129121962
+
+93. BMP4
+bone morphogenetic protein 4 [Indicator indicator]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 4
+Annotation: Chromosome 4 NC_072013.1 (32211273..32214165)
+ID: 128981336
+
+94. AHSG
+alpha 2-HS glycoprotein [Indicator indicator]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 13
+Annotation: Chromosome 13 NC_072022.1 (20616836..20624850)
+ID: 128970776
+
+95. BMP4
+bone morphogenetic protein 4 [Melozone crissalis (California towhee)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_026535834.1 (8330294..8333133)
+ID: 128943845
+
+96. AHSG
+alpha 2-HS glycoprotein [Melozone crissalis (California towhee)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_026535812.1 (17953749..17959979)
+ID: 128941103
+
+97. AHSG
+alpha 2-HS glycoprotein [Rissa tridactyla (black-legged kittiwake)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 6
+Annotation: Chromosome 6 NC_071471.1 (1193917..1200887)
+ID: 128911015
+
+98. BMP4
+bone morphogenetic protein 4 [Rissa tridactyla (black-legged kittiwake)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 4
+Annotation: Chromosome 4 NC_071469.1 (70583278..70586270, complement)
+ID: 128908746
+
+99. AHSG
+alpha 2-HS glycoprotein [Vidua macroura (Pin-tailed whydah)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_071580.1 (8463940..8470707, complement)
+ID: 128812299
+
+100. BMP4
+bone morphogenetic protein 4 [Vidua macroura (Pin-tailed whydah)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_071576.1 (3083793..3097996, complement)
+ID: 128809447
+
+101. AHSG
+alpha 2-HS glycoprotein [Vidua chalybeata]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_071539.1 (8477751..8484535, complement)
+ID: 128793081
+
+102. BMP4
+bone morphogenetic protein 4 [Vidua chalybeata]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_071535.1 (3063415..3077679, complement)
+ID: 128789911
+
+103. AHSG
+alpha 2-HS glycoprotein [Harpia harpyja (harpy eagle)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 12
+Annotation: Chromosome 12 NC_068951.1 (34795178..34802054)
+ID: 128149559
+
+104. BMP4
+bone morphogenetic protein 4 [Harpia harpyja (harpy eagle)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 3
+Annotation: Chromosome 3 NC_068942.1 (79313345..79316390)
+ID: 128140123
+
+105. BMP4
+bone morphogenetic protein 4 [Tympanuchus pallidicinctus (lesser prairie-chicken)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_026294747.1 (57677086..57680005, complement)
+ID: 128087220
+
+106. AHSG
+alpha 2-HS glycoprotein [Tympanuchus pallidicinctus (lesser prairie-chicken)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_026294739.1 (15415761..15422322)
+ID: 128081853
+
+107. AHSG
+alpha 2-HS glycoprotein [Manacus candei (White-collared manakin)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_026138063.1 (8875337..8882196, complement)
+ID: 127468399
+
+108. BMP4
+bone morphogenetic protein 4 [Manacus candei (White-collared manakin)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_026138145.1 (63622..68437, complement)
+ID: 127461211
+
+109. AHSG
+alpha 2-HS glycoprotein [Apus apus (common swift)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 8
+Annotation: Chromosome 8 NC_067289.1 (17752553..17759471)
+ID: 127387602
+
+110. BMP4
+bone morphogenetic protein 4 [Apus apus (common swift)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_067286.1 (62791592..62846764)
+ID: 127385416
+
+111. AHSG
+alpha 2-HS glycoprotein [Gymnogyps californianus (California condor)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_059480.1 (19281201..19287785)
+ID: 127020348
+
+112. BMP4
+bone morphogenetic protein 4 [Gymnogyps californianus (California condor)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_059475.1 (67822386..67826141)
+ID: 127016740
+
+113. BMP4
+bone morphogenetic protein 4 [Myiozetetes cayanensis]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_026087853.1 (1143532..1147412, complement)
+ID: 126651181
+
+114. AHSG
+alpha 2-HS glycoprotein [Myiozetetes cayanensis]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_026086937.1 (15192460..15199178)
+ID: 126636454
+
+115. BMP4
+bone morphogenetic protein 4 [Accipiter gentilis (Northern goshawk)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 25
+Annotation: Chromosome 25 NC_064904.1 (19509220..19512323)
+ID: 126050616
+
+116. AHSG
+alpha 2-HS glycoprotein [Accipiter gentilis (Northern goshawk)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 6
+Annotation: Chromosome 6 NC_064885.1 (34355481..34362363)
+ID: 126039760
+
+117. AHSG
+alpha 2-HS glycoprotein [Lagopus muta (rock ptarmigan)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_064441.1 (7851064..7857624, complement)
+ID: 125697372
+
+118. BMP4
+bone morphogenetic protein 4 [Lagopus muta (rock ptarmigan)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_064438.1 (58417719..58420581, complement)
+ID: 125695096
+
+119. AHSG
+alpha 2-HS glycoprotein [Corvus hawaiiensis (hawaiian crow)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_063222.1 (20113150..20119866)
+ID: 125331165
+
+120. BMP4
+bone morphogenetic protein 4 [Corvus hawaiiensis (hawaiian crow)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_063218.1 (3122911..3126059, complement)
+ID: 125328138
+
+
+121. AHSG
+alpha 2-HS glycoprotein [Lagopus leucura (white-tailed ptarmigan)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_024962280.1 (7745976..7752536, complement)
+ID: 122185499
+
+122. BMP4
+bone morphogenetic protein 4 [Lagopus leucura (white-tailed ptarmigan)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_024962250.1 (41567047..41569861, complement)
+ID: 122176579
+
+123. AHSG
+alpha 2-HS glycoprotein [Centrocercus urophasianus (Greater sage-grouse)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_024884744.1 (7758291..7764848, complement)
+ID: 122161215
+
+124. BMP4
+bone morphogenetic protein 4 [Centrocercus urophasianus (Greater sage-grouse)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_024884586.1 (51718909..51721828, complement)
+ID: 122157825
+
+125. BMP4
+bone morphogenetic protein 4 [Corvus kubaryi (Mariana crow)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_024582054.1 (33496891..33511300)
+ID: 121673977
+
+126. AHSG
+alpha 2-HS glycoprotein [Corvus kubaryi (Mariana crow)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_024581136.1 (13149426..13156142)
+ID: 121671102
+
+127. BMP4
+bone morphogenetic protein 4 [Pyrgilauda ruficollis (rufous-necked snowfinch)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_024521317.1 (151621..199890)
+ID: 121354039
+
+128. AHSG
+alpha 2-HS glycoprotein [Pyrgilauda ruficollis (rufous-necked snowfinch)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_024520318.1 (8082693..8089116, complement)
+ID: 121353746
+
+129. BMP4
+bone morphogenetic protein 4 [Onychostruthus taczanowskii (white-rumped snowfinch)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_024496858.1 (1919075..1922090)
+ID: 121340676
+
+130. AHSG
+alpha 2-HS glycoprotein [Onychostruthus taczanowskii (white-rumped snowfinch)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_024499684.1 (8211781..8218582, complement)
+ID: 121336588
+
+131. AHSG
+alpha 2-HS glycoprotein [Falco naumanni (lesser kestrel)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 13
+Annotation: Chromosome 13 NC_054066.1 (19901519..19908256)
+ID: 121096738
+
+132. BMP4
+bone morphogenetic protein 4 [Falco naumanni (lesser kestrel)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 7
+Annotation: Chromosome 7 NC_054060.1 (34592347..34595373)
+ID: 121091863
+
+133. AHSG
+alpha 2-HS glycoprotein [Cygnus olor (mute swan)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_049177.1 (17626079..17632975)
+ID: 121075094
+
+134. BMP4
+bone morphogenetic protein 4 [Cygnus olor (mute swan)]
+Other Designations: LOW QUALITY PROTEIN: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_049173.1 (3778961..3781883, complement)
+ID: 121070314
+
+135. AHSG
+alpha 2-HS glycoprotein [Hirundo rustica (Barn swallow)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_053459.1 (17630761..17637297)
+ID: 120757227
+
+136. BMP4
+bone morphogenetic protein 4 [Hirundo rustica (Barn swallow)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_053455.1 (3028161..3031300, complement)
+ID: 120754053
+
+137. AHSG
+alpha 2-HS glycoprotein [Passer montanus (Eurasian tree sparrow)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_024367596.1 (8043852..8050626, complement)
+ID: 120504328
+
+138. BMP4
+bone morphogenetic protein 4 [Passer montanus (Eurasian tree sparrow)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_024367372.1 (1926663..1929697)
+ID: 120503839
+
+139. AHSG
+alpha 2-HS glycoprotein [Motacilla alba alba]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_052024.1 (17272009..17278656)
+ID: 119704319
+
+140. BMP4
+bone morphogenetic protein 4 [Motacilla alba alba]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_052020.1 (59239444..59242487)
+ID: 119702087
+
+141. AHSG
+alpha 2-HS glycoprotein [Falco rusticolus (gyrfalcon)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 13
+Annotation: Chromosome 13 NC_051199.1 (20205572..20212374)
+ID: 119156735
+
+142. BMP4
+bone morphogenetic protein 4 [Falco rusticolus (gyrfalcon)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 7
+Annotation: Chromosome 7 NC_051193.1 (34662735..34665745)
+ID: 119151676
+
+143. AHSG
+alpha 2-HS glycoprotein [Molothrus ater]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_050487.2 (17510488..17517112)
+ID: 118690208
+
+144. BMP4
+bone morphogenetic protein 4 [Molothrus ater]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_050483.2 (59836668..59839644)
+ID: 118687293
+
+145. AHSG
+alpha 2-HS glycoprotein [Cygnus atratus (black swan)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_066370.1 (17570261..17576565)
+ID: 118253188
+
+146. BMP4
+bone morphogenetic protein 4 [Cygnus atratus (black swan)]
+Other Designations: LOW QUALITY PROTEIN: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_066366.1 (62162100..62165015)
+ID: 118250336
+
+147. AHSG
+alpha 2-HS glycoprotein [Oxyura jamaicensis (ruddy duck)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_048901.1 (16993723..17000424)
+ID: 118171759
+
+148. BMP4
+bone morphogenetic protein 4 [Oxyura jamaicensis (ruddy duck)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_048897.1 (51057938..51059797)
+ID: 118168448
+
+149. AHSG
+alpha 2-HS glycoprotein [Catharus ustulatus (Swainson's thrush)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_046230.1 (18189780..18196304)
+ID: 117000552
+
+150. BMP4
+bone morphogenetic protein 4 [Catharus ustulatus (Swainson's thrush)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_046226.1 (3062207..3065520, complement)
+ID: 116997674
+
+151. BMP4
+bone morphogenetic protein 4 [Tyto alba (common barn owl)]
+Other Designations: LOW QUALITY PROTEIN: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_024881303.1 (4407171..4410273, complement)
+ID: 116965637
+
+152. AHSG
+alpha 2-HS glycoprotein [Chiroxiphia lanceolata (lance-tailed manakin)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_045646.1 (8842160..8849028, complement)
+ID: 116791403
+
+153. BMP4
+bone morphogenetic protein 4 [Chiroxiphia lanceolata (lance-tailed manakin)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_045642.1 (62365577..62368703)
+ID: 116788928
+
+154. AHSG
+alpha 2-HS glycoprotein [Aythya fuligula (tufted duck)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_045567.1 (17583757..17590582)
+ID: 116492589
+
+155. BMP4
+bone morphogenetic protein 4 [Aythya fuligula (tufted duck)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_045563.1 (3701495..3704130, complement)
+ID: 116490007
+
+156. AHSG
+alpha 2-HS glycoprotein [Corvus moneduloides (New Caledonian crow)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_045485.1 (19549740..19556451)
+ID: 116448959
+
+157. BMP4
+bone morphogenetic protein 4 [Corvus moneduloides (New Caledonian crow)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_045481.1 (3004693..3018939, complement)
+ID: 116445925
+
+158. AHSG
+alpha 2-HS glycoprotein [Phasianus colchicus (ring-necked pheasant)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_022205552.1 (2935583..2942242)
+ID: 116235528
+
+159. BMP4
+bone morphogenetic protein 4 [Phasianus colchicus (ring-necked pheasant)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_022205483.1 (1709413..1712301, complement)
+ID: 116234629
+
+160. AHSG
+alpha 2-HS glycoprotein [Camarhynchus parvulus]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_044579.1 (8116353..8122923, complement)
+ID: 115906810
+
+161. BMP4
+bone morphogenetic protein 4 [Camarhynchus parvulus]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_044575.1 (58856948..58859954)
+ID: 115904137
+
+162. AHSG
+alpha 2-HS glycoprotein [Strigops habroptila (Kakapo)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 8
+Annotation: Chromosome 8 NC_044284.2 (34651894..34658630, complement)
+ID: 115611531
+
+163. BMP4
+bone morphogenetic protein 4 [Strigops habroptila (Kakapo)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 4
+Annotation: Chromosome 4 NC_046358.1 (11247258..11250210)
+ID: 115607389
+
+164. AHSG
+alpha 2-HS glycoprotein [Aquila chrysaetos chrysaetos]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 10
+Annotation: Chromosome 10 NC_044013.1 (10823907..10830791, complement)
+ID: 115346716
+
+165. BMP4
+bone morphogenetic protein 4 [Aquila chrysaetos chrysaetos]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 2
+Annotation: Chromosome 2 NC_044005.1 (4391695..4411591, complement)
+ID: 115338579
+
+166. BMP4
+bone morphogenetic protein 4 [Empidonax traillii (willow flycatcher)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_020956110.1 (220233..223386, complement)
+ID: 114067429
+
+167. AHSG
+alpha 2-HS glycoprotein [Empidonax traillii (willow flycatcher)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_020955485.1 (81677..88412, complement)
+ID: 114060799
+
+168. BMP4
+bone morphogenetic protein 4 [Pipra filicauda (Wire-tailed manakin)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_024104349.1 (493812..619734, complement)
+ID: 113989660
+
+169. AHSG
+alpha 2-HS glycoprotein [Pipra filicauda (Wire-tailed manakin)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_024105186.1 (2746169..2752996)
+ID: 113983602
+
+170. BMP4
+bone morphogenetic protein 4 [Neopelma chrysocephalum (saffron-crested tyrant-manakin)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_020897915.1 (1343929..1347057)
+ID: 113977652
+
+171. AHSG
+alpha 2-HS glycoprotein [Neopelma chrysocephalum (saffron-crested tyrant-manakin)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_020897729.1 (3562849..3569719)
+ID: 113968798
+
+172. BMP4
+bone morphogenetic protein 4 [Corapipo altera (White-ruffed manakin)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_020884946.1 (2005510..2008651)
+ID: 113956279
+
+173. AHSG
+alpha 2-HS glycoprotein [Corapipo altera (White-ruffed manakin)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_020884895.1 (3578679..3585563)
+ID: 113949267
+
+174. AHSG
+alpha 2-HS glycoprotein [Athene cunicularia (burrowing owl)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation:  NW_020799110.1 (10284052..10290825, complement)
+ID: 113483510
+
+175. BMP4
+bone morphogenetic protein 4 [Dromaius novaehollandiae (emu)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_088102.1 (4780888..4795371, complement)
+ID: 112988547
+
+176. AHSG
+alpha 2-HS glycoprotein [Dromaius novaehollandiae (emu)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_088106.1 (11570861..11577999, complement)
+ID: 112980179
+
+177. AHSG
+alpha 2-HS glycoprotein [Apteryx rowi (Okarito brown kiwi)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_020449641.1 (405671..412799, complement)
+ID: 112968594
+
+178. BMP4
+bone morphogenetic protein 4 [Apteryx rowi (Okarito brown kiwi)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_020447530.1 (4348217..4350570, complement)
+ID: 112961235
+
+179. BMP4
+bone morphogenetic protein 4 [Nothoprocta perdicaria]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_020456043.1 (1136761..1138995)
+ID: 112957780
+
+180. AHSG
+alpha 2-HS glycoprotein [Cyanistes caeruleus (blue tit)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation:  NW_019776462.1 (7780001..7786500, complement)
+ID: 111933384
+
+
+181. BMP4
+bone morphogenetic protein 4 [Cyanistes caeruleus (blue tit)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation:  NW_019776393.1 (3084401..3093189, complement)
+ID: 111929526
+
+182. AHSG
+alpha 2-HS glycoprotein [Lonchura striata (white-rumped munia)]
+Other Aliases: RLOC_00004047
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_042575.1 (8515319..8522384, complement)
+ID: 110477752
+
+183. BMP4
+bone morphogenetic protein 4 [Lonchura striata (white-rumped munia)]
+Other Aliases: RLOC_00011378
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_042571.1 (2971881..2974937, complement)
+ID: 110474762
+
+184. BMP4
+bone morphogenetic protein 4 [Numida meleagris (helmeted guineafowl)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_034414.1 (60067967..60231729, complement)
+ID: 110401682
+
+185. AHSG
+alpha 2-HS glycoprotein [Numida meleagris (helmeted guineafowl)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 4
+Annotation: Chromosome 4 NC_034412.1 (8069153..8076313, complement)
+ID: 110397817
+
+186. BMP4
+bone morphogenetic protein 4 [Lepidothrix coronata (blue-crowned manakin)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_016690464.1 (590972..594113)
+ID: 108508199
+
+187. AHSG
+alpha 2-HS glycoprotein [Lepidothrix coronata (blue-crowned manakin)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_016690209.1 (2255098..2261741, complement)
+ID: 108495151
+
+188. AHSG
+alpha 2-HS glycoprotein [Coturnix japonica (Japanese quail)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_029524.1 (14147831..14154174)
+ID: 107318286
+
+189. BMP4
+bone morphogenetic protein 4 [Coturnix japonica (Japanese quail)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_029520.1 (53147980..53150835, complement)
+ID: 107315532
+
+190. AHSG
+alpha 2-HS glycoprotein [Parus major (Great Tit)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_031778.1 (16935982..16942672)
+ID: 107208719
+
+191. BMP4
+bone morphogenetic protein 4 [Parus major (Great Tit)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_031774.1 (58990147..58993309)
+ID: 107205267
+
+192. AHSG
+alpha 2-HS glycoprotein [Calidris pugnax (ruff)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_015090822.1 (607482..614236)
+ID: 106886730
+
+193. BMP4
+bone morphogenetic protein 4 [Calidris pugnax (ruff)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_015090795.1 (4161663..4184605, complement)
+ID: 106885007
+
+194. AHSG
+alpha 2-HS glycoprotein [Sturnus vulgaris (Common starling)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_014650500.1 (3279548..3286253, complement)
+ID: 106850336
+
+195. BMP4
+bone morphogenetic protein 4 [Sturnus vulgaris (Common starling)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_014650499.1 (5199041..5202057)
+ID: 106850263
+
+196. BMP4
+bone morphogenetic protein 4 [Apteryx mantelli (North Island brown kiwi)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 4
+Annotation: Chromosome 4 NC_089981.1 (86418432..86424239)
+ID: 106494596
+
+197. AHSG
+alpha 2-HS glycoprotein [Apteryx mantelli (North Island brown kiwi)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_089986.1 (11224883..11231979, complement)
+ID: 106482221
+
+198. AHSG
+alpha 2-HS glycoprotein [Anser cygnoides (Swan goose)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_089881.1 (17975105..17981901)
+ID: 106032055
+
+199. BMP4
+bone morphogenetic protein 4 [Haliaeetus leucocephalus (bald eagle)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_010973114.1 (4326716..4329573, complement)
+ID: 104839481
+
+200. AHSG
+alpha 2-HS glycoprotein [Haliaeetus leucocephalus (bald eagle)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_010972798.1 (6392208..6398847, complement)
+ID: 104835130
+
+201. AHSG
+alpha 2-HS glycoprotein [Corvus cornix cornix]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_046339.1 (8444350..8451063, complement)
+ID: 104687989
+
+202. BMP4
+bone morphogenetic protein 4 [Corvus cornix cornix]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_046335.1 (2826950..2841169, complement)
+ID: 104687658
+
+203. AHSG
+alpha 2-HS glycoprotein [Balearica regulorum gibbericeps (East African grey crowned-crane)]
+Other Aliases: N312_11889
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_010776832.1 (16354..24019, complement)
+ID: 104641879
+
+204. AHSG
+alpha 2-HS glycoprotein [Phaethon lepturus (White-tailed tropicbird)]
+Other Designations: LOW QUALITY PROTEIN: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_010534100.1 (68069..74914, complement)
+ID: 104619521
+
+205. BMP4
+bone morphogenetic protein 4 [Phaethon lepturus (White-tailed tropicbird)]
+Other Aliases: N335_06367
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_010511627.1 (158..2428)
+ID: 104618873
+
+206. AHSG
+alpha 2-HS glycoprotein [Tinamus guttatus (white-throated tinamou)]
+Other Aliases: N309_07981
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_010589273.1 (215142..221689)
+ID: 104578040
+
+207. BMP4
+bone morphogenetic protein 4 [Tinamus guttatus (white-throated tinamou)]
+Other Aliases: N309_13439
+Other Designations: LOW QUALITY PROTEIN: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_010581900.1 (111387..113593, complement)
+ID: 104568228
+
+208. BMP4
+bone morphogenetic protein 4 [Colius striatus (speckled mousebird)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 6
+Annotation: Chromosome 6 NC_084764.1 (35498527..35501716, complement)
+ID: 104563109
+
+209. AHSG
+alpha 2-HS glycoprotein [Colius striatus (speckled mousebird)]
+Other Aliases: N325_00853
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 12
+Annotation: Chromosome 12 NC_084770.1 (5246767..5253241, complement)
+ID: 104556953
+
+210. AHSG
+alpha 2-HS glycoprotein [Mesitornis unicolor (brown roatelo)]
+Other Aliases: N332_14791
+Other Designations: LOW QUALITY PROTEIN: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_010188862.1 (44582..51165, complement)
+ID: 104541739
+
+211. BMP4
+bone morphogenetic protein 4 [Mesitornis unicolor (brown roatelo)]
+Other Aliases: N332_01262
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_010158998.1 (157..2506)
+ID: 104541294
+
+212. AHSG
+alpha 2-HS glycoprotein [Antrostomus carolinensis (chuck-will's-widow)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_010327831.1 (5326..11883, complement)
+ID: 104528090
+
+213. BMP4
+bone morphogenetic protein 4 [Antrostomus carolinensis (chuck-will's-widow)]
+Other Aliases: N321_06927
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_010327085.1 (12489..13327, complement)
+ID: 104527952
+
+214. AHSG
+alpha 2-HS glycoprotein [Eurypyga helias (sunbittern)]
+Other Aliases: N326_11911
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_010259691.1 (66562..73283, complement)
+ID: 104511924
+
+215. BMP4
+bone morphogenetic protein 4 [Eurypyga helias (sunbittern)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_010248902.1 (25139..27629, complement)
+ID: 104509313
+
+216. AHSG
+alpha 2-HS glycoprotein [Buceros rhinoceros silvestris]
+Other Aliases: N320_08910
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_010395782.1 (47641..54031)
+ID: 104501778
+
+217. BMP4
+bone morphogenetic protein 4 [Buceros rhinoceros silvestris]
+Other Aliases: N320_07924
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_010406341.1 (115..2674)
+ID: 104491584
+
+218. AHSG
+alpha 2-HS glycoprotein [Chlamydotis macqueenii (Macqueen's bustard)]
+Other Aliases: N324_05416
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_010478806.1 (59467..67482)
+ID: 104480237
+
+219. AHSG
+alpha 2-HS glycoprotein [Pterocles gutturalis (yellow-throated sandgrouse)]
+Other Aliases: N339_02431
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_010130949.1 (34948..41403)
+ID: 104466865
+
+220. BMP4
+bone morphogenetic protein 4 [Pterocles gutturalis (yellow-throated sandgrouse)]
+Other Aliases: N339_04941
+Other Designations: LOW QUALITY PROTEIN: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_010120121.1 (151..2176)
+ID: 104464124
+
+221. AHSG
+alpha 2-HS glycoprotein [Nestor notabilis (Kea)]
+Other Aliases: N333_07219
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_009920395.1 (7713..14076)
+ID: 104402698
+
+222. AHSG
+alpha 2-HS glycoprotein [Chaetura pelagica (chimney swift)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_009951958.1 (2402208..2409020, complement)
+ID: 104390305
+
+223. BMP4
+bone morphogenetic protein 4 [Chaetura pelagica (chimney swift)]
+Other Aliases: M959_06445
+Other Designations: LOW QUALITY PROTEIN: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_009952983.1 (1760219..1762387)
+ID: 104387678
+
+224. AHSG
+alpha 2-HS glycoprotein [Tauraco erythrolophus (red-crested turaco)]
+Other Aliases: N340_11781
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_010042392.1 (63942..71404)
+ID: 104384616
+
+225. BMP4
+bone morphogenetic protein 4 [Tauraco erythrolophus (red-crested turaco)]
+Other Aliases: N340_01014
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_010068659.1 (193108..195190, complement)
+ID: 104379624
+
+226. AHSG
+alpha 2-HS glycoprotein [Tyto alba (common barn owl)]
+Other Aliases: N341_01383
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_024881262.1 (10785574..10792077, complement)
+ID: 104360452
+
+227. AHSG
+alpha 2-HS glycoprotein [Leptosomus discolor (cuckoo roller)]
+Other Aliases: N330_11938
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_009862986.1 (62463..68907)
+ID: 104346219
+
+228. BMP4
+bone morphogenetic protein 4 [Leptosomus discolor (cuckoo roller)]
+Other Aliases: N330_06847
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_009849236.1 (14..1051)
+ID: 104341680
+
+229. AHSG
+alpha 2-HS glycoprotein [Opisthocomus hoazin]
+Other Designations: LOW QUALITY PROTEIN: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_009903054.1 (279796..286606)
+ID: 104335996
+
+230. BMP4
+bone morphogenetic protein 4 [Opisthocomus hoazin]
+Other Aliases: N306_05175
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_009902442.1 (1706878..1709279)
+ID: 104333959
+
+231. AHSG
+alpha 2-HS glycoprotein [Haliaeetus albicilla (white-tailed eagle)]
+Other Aliases: N329_01823
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_009753442.1 (42486..49125, complement)
+ID: 104325332
+
+232. AHSG
+alpha 2-HS glycoprotein [Dryobates pubescens (Downy woodpecker)]
+Other Aliases: N307_05273
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 13
+Annotation: Chromosome 13 NC_071624.1 (12176222..12183854)
+ID: 104302979
+
+233. BMP4
+bone morphogenetic protein 4 [Dryobates pubescens (Downy woodpecker)]
+Other Aliases: N307_10934
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_071616.1 (15855675..15858629, complement)
+ID: 104299364
+
+234. AHSG
+alpha 2-HS glycoprotein [Charadrius vociferus (killdeer)]
+Other Aliases: N301_07744
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_009646965.1 (269648..276187)
+ID: 104295529
+
+235. BMP4
+bone morphogenetic protein 4 [Charadrius vociferus (killdeer)]
+Other Aliases: N301_11650
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_009661375.1 (4396450..4398797, complement)
+ID: 104294310
+
+236. AHSG
+alpha 2-HS glycoprotein [Apaloderma vittatum (bar-tailed trogon)]
+Other Designations: LOW QUALITY PROTEIN: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_009730774.1 (15129..21600, complement)
+ID: 104278063
+
+237. BMP4
+bone morphogenetic protein 4 [Apaloderma vittatum (bar-tailed trogon)]
+Other Designations: LOW QUALITY PROTEIN: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_009709265.1 (141..2282)
+ID: 104271994
+
+238. AHSG
+alpha 2-HS glycoprotein [Gavia stellata (red-throated loon)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 11
+Annotation: Chromosome 11 NC_082604.1 (20155569..20162463)
+ID: 104259909
+
+239. BMP4
+bone morphogenetic protein 4 [Gavia stellata (red-throated loon)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 7
+Annotation: Chromosome 7 NC_082600.1 (4563290..4566277, complement)
+ID: 104257507
+
+240. BMP4
+bone morphogenetic protein 4 [Cariama cristata (Red-legged seriema)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_009598102.1 (433..2410, complement)
+ID: 104168548
+
+
+241. AHSG
+alpha 2-HS glycoprotein [Cariama cristata (Red-legged seriema)]
+Other Aliases: N322_01612
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_009605605.1 (17717..23797, complement)
+ID: 104158402
+
+242. AHSG
+alpha 2-HS glycoprotein [Struthio camelus (African ostrich)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_090950.1 (23040099..23047540)
+ID: 104145652
+
+243. BMP4
+bone morphogenetic protein 4 [Struthio camelus (African ostrich)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_090946.1 (79897249..79959715)
+ID: 104141415
+
+244. BMP4
+bone morphogenetic protein 4 [Egretta garzetta (little egret)]
+Other Aliases: Z169_07171
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_009259099.1 (901337..904410)
+ID: 104122989
+
+245. AHSG
+alpha 2-HS glycoprotein [Egretta garzetta (little egret)]
+Other Aliases: Z169_03275
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_009258951.1 (1286911..1293416)
+ID: 104122293
+
+246. AHSG
+alpha 2-HS glycoprotein [Fulmarus glacialis (Northern fulmar)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_009197161.1 (13066..19923, complement)
+ID: 104072849
+
+247. AHSG
+alpha 2-HS glycoprotein [Cuculus canorus (common cuckoo)]
+Other Aliases: N303_10297
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_071409.1 (16209728..16216731)
+ID: 104057835
+
+248. BMP4
+bone morphogenetic protein 4 [Cuculus canorus (common cuckoo)]
+Other Aliases: N303_03980
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_071405.1 (3568526..3572076)
+ID: 104057425
+
+249. AHSG
+alpha 2-HS glycoprotein [Phalacrocorax carbo (great cormorant)]
+Other Aliases: N336_03678
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 7
+Annotation: Chromosome 7 NC_087519.1 (35953283..35960270, complement)
+ID: 104048439
+
+250. AHSG
+alpha 2-HS glycoprotein [Pelecanus crispus (Dalmatian pelican)]
+Other Designations: LOW QUALITY PROTEIN: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_009073183.1 (14901..21405, complement)
+ID: 104028008
+
+251. BMP4
+bone morphogenetic protein 4 [Pelecanus crispus (Dalmatian pelican)]
+Other Aliases: N334_00235
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_009113466.1 (71..990, complement)
+ID: 104026570
+
+252. BMP4
+bone morphogenetic protein 4 [Nipponia nippon (crested ibis)]
+Other Aliases: Y956_12451
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_009002645.1 (2094689..2100684)
+ID: 104019440
+
+253. AHSG
+alpha 2-HS glycoprotein [Nipponia nippon (crested ibis)]
+Other Designations: LOW QUALITY PROTEIN: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_009001459.1 (262812..269440, complement)
+ID: 104015621
+
+254. BMP4
+bone morphogenetic protein 4 [Pygoscelis adeliae (Adelie penguin)]
+Other Aliases: AS28_07715
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_008824668.1 (1294462..1296851)
+ID: 103915984
+
+255. AHSG
+alpha 2-HS glycoprotein [Pygoscelis adeliae (Adelie penguin)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_008824543.1 (3005370..3012294, complement)
+ID: 103914985
+
+256. BMP4
+bone morphogenetic protein 4 [Aptenodytes forsteri (emperor penguin)]
+Other Aliases: AS27_14305
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_008794444.1 (2159425..2165107)
+ID: 103907630
+
+257. AHSG
+alpha 2-HS glycoprotein [Aptenodytes forsteri (emperor penguin)]
+Other Aliases: AS27_14130
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_008796193.1 (8042668..8049764, complement)
+ID: 103906201
+
+258. BMP4
+bone morphogenetic protein 4 [Serinus canaria (Common canary)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_066319.1 (59279312..59293444)
+ID: 103826326
+
+259. AHSG
+alpha 2-HS glycoprotein [Serinus canaria (Common canary)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_066323.1 (8059457..8066117, complement)
+ID: 103815328
+
+260. AHSG
+alpha 2-HS glycoprotein [Acanthisitta chloris (rifleman)]
+Other Designations: LOW QUALITY PROTEIN: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_008687492.1 (66606..72990, complement)
+ID: 103807858
+
+261. BMP4
+bone morphogenetic protein 4 [Acanthisitta chloris (rifleman)]
+Other Aliases: N310_13534
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_008663567.1 (4..819)
+ID: 103798768
+
+262. AHSG
+alpha 2-HS glycoprotein [Merops nubicus (carmine bee-eater)]
+Other Aliases: N331_11687
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_008602190.1 (4906..11177)
+ID: 103770974
+
+263. AHSG
+alpha 2-HS glycoprotein [Manacus vitellinus (golden-collared manakin)]
+Other Aliases: N305_01843
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_021940207.1 (2246787..2253653, complement)
+ID: 103758233
+
+264. BMP4
+bone morphogenetic protein 4 [Manacus vitellinus (golden-collared manakin)]
+Other Aliases: N305_09643
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_021940750.1 (40667613..40668892)
+ID: 103754118
+
+265. AHSG
+alpha 2-HS glycoprotein [Corvus brachyrhynchos (American crow)]
+Other Aliases: N302_03740
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_008236696.1 (4764291..4771475, complement)
+ID: 103625117
+
+266. BMP4
+bone morphogenetic protein 4 [Corvus brachyrhynchos (American crow)]
+Other Aliases: N302_06503
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_008238988.1 (4970712..4973200)
+ID: 103618849
+
+267. BMP4
+bone morphogenetic protein 4 [Calypte anna (Anna's hummingbird)]
+Other Aliases: N300_01585
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5A
+Annotation: Chromosome 5A NC_044251.1 (40557434..40560369)
+ID: 103535004
+
+268. AHSG
+alpha 2-HS glycoprotein [Calypte anna (Anna's hummingbird)]
+Other Aliases: N300_13398
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_044255.1 (17048223..17055034)
+ID: 103528094
+
+269. BMP4
+bone morphogenetic protein 4 [Pseudopodoces humilis (Tibetan ground-tit)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_005087603.1 (1876594..1879795)
+ID: 102110411
+
+270. AHSG
+alpha 2-HS glycoprotein [Pseudopodoces humilis (Tibetan ground-tit)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_005087576.1 (3403578..3410278)
+ID: 102110146
+
+271. AHSG
+alpha 2-HS glycoprotein [Columba livia (rock pigeon)]
+Other Aliases: A306_05787
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_088610.1 (8735941..8742773)
+ID: 102088326
+
+272. BMP4
+bone morphogenetic protein 4 [Zonotrichia albicollis (white-throated sparrow)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_005081811.1 (198804..212770, complement)
+ID: 102075485
+
+273. AHSG
+alpha 2-HS glycoprotein [Zonotrichia albicollis (white-throated sparrow)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_005081559.1 (4914111..4920736, complement)
+ID: 102061377
+
+274. BMP4
+bone morphogenetic protein 4 [Falco cherrug (Saker falcon)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 7
+Annotation: Chromosome 7 NC_073703.1 (34750292..34753336)
+ID: 102047171
+
+275. AHSG
+alpha 2-HS glycoprotein [Falco cherrug (Saker falcon)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 11
+Annotation: Chromosome 11 NC_073707.1 (23708877..23715671)
+ID: 102046763
+
+276. BMP4
+bone morphogenetic protein 4 [Geospiza fortis (medium ground-finch)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_005054303.1 (13851457..13865946)
+ID: 102044724
+
+277. AHSG
+alpha 2-HS glycoprotein [Geospiza fortis (medium ground-finch)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: Un
+Annotation:  NW_005054309.1 (3965853..3972500)
+ID: 102032160
+
+278. BMP4
+bone morphogenetic protein 4 [Falco peregrinus (peregrine falcon)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 1
+Annotation: Chromosome 1 NC_073721.1 (96002231..96005270, complement)
+ID: 101923141
+
+279. AHSG
+alpha 2-HS glycoprotein [Falco peregrinus (peregrine falcon)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 12
+Annotation: Chromosome 12 NC_073732.1 (19523976..19530759)
+ID: 101914571
+
+280. BMP4
+bone morphogenetic protein 4 [Ficedula albicollis (Collared flycatcher)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_021677.1 (61495835..61498807)
+ID: 101816834
+
+281. AHSG
+alpha 2-HS glycoprotein [Ficedula albicollis (Collared flycatcher)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_021681.1 (18165512..18172352)
+ID: 101808354
+
+282. BMP4
+bone morphogenetic protein 4 [Anas platyrhynchos (mallard)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_051776.1 (3966524..3970545, complement)
+ID: 101803077
+
+283. AHSG
+alpha 2-HS glycoprotein [Anas platyrhynchos (mallard)]
+Other Aliases: Anapl_03191
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_051780.1 (8993089..8999978, complement)
+ID: 101790298
+
+284. AHSG
+alpha 2-HS glycoprotein [Taeniopygia guttata (zebra finch)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 9
+Annotation: Chromosome 9 NC_044221.2 (17387250..17394030)
+ID: 101233214
+
+285. AHSG
+alpha 2-HS glycoprotein [Meleagris gallopavo (turkey)]
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 11
+Annotation: Chromosome 11 NC_015021.2 (15421585..15428114)
+ID: 100545647
+
+286. BMP4
+bone morphogenetic protein 4 [Meleagris gallopavo (turkey)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: 5
+Annotation: Chromosome 5 NC_015015.2 (57927064..57929362, complement)
+ID: 100544182
+
+287. LOC135458875
+bone morphogenetic protein 4-like [Zonotrichia leucophrys gambelii]
+Other Designations: bone morphogenetic protein 4-like
+Chromosome: 28
+Annotation: Chromosome 28 NC_088197.1 (605406..608225, complement)
+ID: 135458875
+
+288. LOC135284791
+bone morphogenetic protein 4-like [Passer domesticus (house sparrow)]
+Other Designations: bone morphogenetic protein 4-like
+Chromosome: 21
+Annotation: Chromosome 21 NC_087494.1 (5400949..5413516)
+ID: 135284791
+
+289. LOC134420541
+bone morphogenetic protein 4-like [Melospiza melodia melodia]
+Other Designations: bone morphogenetic protein 4-like
+Chromosome: 7
+Annotation: Chromosome 7 NC_086200.1 (26177507..26180261, complement)
+ID: 134420541
+
+290. LOC132084664
+bone morphogenetic protein 4-like [Ammospiza nelsoni]
+Other Designations: bone morphogenetic protein 4-like
+Chromosome: 27
+Annotation: Chromosome 27 NC_080659.1 (1268320..1270799, complement)
+ID: 132084664
+
+291. LOC131569017
+bone morphogenetic protein 4-like [Ammospiza caudacuta]
+Other Designations: bone morphogenetic protein 4-like
+Chromosome: 28
+Annotation: Chromosome 28 NC_080620.1 (1060011..1062306, complement)
+ID: 131569017
+
+292. LOC131093715
+bone morphogenetic protein 4-like [Melospiza georgiana]
+Other Designations: bone morphogenetic protein 4-like
+Chromosome: 26
+Annotation: Chromosome 26 NC_080455.1 (2094742..2097447, complement)
+ID: 131093715
+
+293. LOC121352392
+bone morphogenetic protein 4-like [Pyrgilauda ruficollis (rufous-necked snowfinch)]
+Other Designations: bone morphogenetic protein 4-like
+Chromosome: Un
+Annotation:  NW_024517873.1 (424958..428151)
+ID: 121352392
+
+294. LOC120496382
+bone morphogenetic protein 4-like [Passer montanus (Eurasian tree sparrow)]
+Other Designations: bone morphogenetic protein 4-like
+Chromosome: Un
+Annotation:  NW_024358058.1 (454210..461081, complement)
+ID: 120496382
+
+295. LOC117008462
+bone morphogenetic protein 4-like [Catharus ustulatus (Swainson's thrush)]
+Other Designations: bone morphogenetic protein 4-like
+Chromosome: 29
+Annotation: Chromosome 29 NC_046249.1 (6013944..6023829)
+ID: 117008462
+
+296. LOC112952496
+alpha-2-HS-glycoprotein-like [Nothoprocta perdicaria]
+Other Designations: alpha-2-HS-glycoprotein-like
+Chromosome: Un
+Annotation:  NW_020455643.1 (8018183..8024826, complement)
+ID: 112952496
+
+297. LOC111933821
+alpha-2-HS-glycoprotein-like [Cyanistes caeruleus (blue tit)]
+Other Designations: alpha-2-HS-glycoprotein-like
+Chromosome: 9
+Annotation:  NW_019776468.1 (556..2078)
+ID: 111933821
+
+298. LOC104642562
+bone morphogenetic protein 4-like [Balearica regulorum gibbericeps (East African grey crowned-crane)]
+Other Aliases: N312_04523
+Other Designations: LOW QUALITY PROTEIN: bone morphogenetic protein 4-like; Bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_010779225.1 (31287..33657, complement)
+ID: 104642562
+
+299. LOC104481164
+bone morphogenetic protein 4-like [Chlamydotis macqueenii (Macqueen's bustard)]
+Other Designations: LOW QUALITY PROTEIN: bone morphogenetic protein 4-like
+Chromosome: Un
+Annotation:  NW_010482009.1 (138..3025)
+ID: 104481164
+
+300. LOC104077613
+bone morphogenetic protein 4-like [Fulmarus glacialis (Northern fulmar)]
+Other Designations: bone morphogenetic protein 4-like
+Chromosome: Un
+Annotation:  NW_009215309.1 (5..797)
+ID: 104077613
+
+
+301. LOC104034312
+bone morphogenetic protein 4-like [Pelecanus crispus (Dalmatian pelican)]
+Other Aliases: N334_05675
+Other Designations: bone morphogenetic protein 4-like; Bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_009099183.1 (281..4530, complement)
+ID: 104034312
+
+302. LOC103916074
+bone morphogenetic protein 4-like [Pygoscelis adeliae (Adelie penguin)]
+Other Aliases: AS28_06875
+Other Designations: bone morphogenetic protein 4-like; Bone morphogenetic protein 2
+Chromosome: Un
+Annotation:  NW_008824671.1 (322933..327324)
+ID: 103916074
+
+303. LOC103810317
+bone morphogenetic protein 7-like [Acanthisitta chloris (rifleman)]
+Other Aliases: N310_00269
+Other Designations: bone morphogenetic protein 7-like; Bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_008693935.1 (124..4513)
+ID: 103810317
+
+304. LOC102073142
+bone morphogenetic protein 4 [Zonotrichia albicollis (white-throated sparrow)]
+Other Designations: bone morphogenetic protein 4
+Chromosome: Un
+Annotation:  NW_005081761.1 (583952..587060, complement)
+ID: 102073142
+
+305. LOC101879128
+alpha 2-HS glycoprotein [Melopsittacus undulatus (budgerigar)]
+Other Aliases: AHSG
+Other Designations: alpha-2-HS-glycoprotein
+Chromosome: 6
+Annotation: Chromosome 6 NC_047532.1 (45941128..45947348, complement)
+ID: 101879128
+
+306. LOC101871297
+bone morphogenetic protein 4 [Melopsittacus undulatus (budgerigar)]
+Other Aliases: BMP4
+Other Designations: bone morphogenetic protein 4
+Chromosome: 4
+Annotation: Chromosome 4 NC_047530.1 (14905692..14908578)
+ID: 101871297
+
+307. LOC104627391
+bone morphogenetic protein 4-like [Phaethon lepturus (White-tailed tropicbird)]
+Other Designations: bone morphogenetic protein 4-like
+Chromosome: Un
+Annotation:  NW_010574572.1 (6..906)
+ID: 104627391
+
+308. LOC103809423
+bone morphogenetic protein 4-like [Acanthisitta chloris (rifleman)]
+Other Designations: bone morphogenetic protein 4-like
+Chromosome: Un
+Annotation:  NW_008691501.1 (403..1731, complement)
+ID: 103809423
+
+309. LOC100551287
+bone morphogenetic protein 4-like [Meleagris gallopavo (turkey)]
+Other Designations: bone morphogenetic protein 4-like
+Chromosome: Un
+Annotation:  NW_011192735.1 (68..1494, complement)
+ID: 100551287
+
+310. LOC111944184
+bone morphogenetic protein 4-like [Cyanistes caeruleus (blue tit)]
+Other Designations: bone morphogenetic protein 4-like
+Chromosome: Un
+Annotation:  NW_019792277.1 (84..923)
+ID: 111944184
+
+311. LOC104642564
+bone morphogenetic protein 4-like [Balearica regulorum gibbericeps (East African grey crowned-crane)]
+Other Designations: bone morphogenetic protein 4-like
+Chromosome: Un
+Annotation:  NW_010779225.1 (33702..33857, complement)
+ID: 104642564
+
+312. NEWENTRY
+Record to support submission of GeneRIFs for a gene not in Gene (Gallus domesticus; Gallus gallus domesticus; Phasianus gallus; bantam; chicken; chickens). [Gallus gallus (chicken)]
+ID: 399507
+
+
