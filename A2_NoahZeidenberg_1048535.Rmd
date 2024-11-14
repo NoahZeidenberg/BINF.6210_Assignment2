@@ -98,9 +98,13 @@ entries %>%
 # Apply vectorized function to extract the ID, gene name, species name, accession ID and the start/stop bp numbers identifying where the gene resides within the fasta file for said accession ID.
 df_spec <- purrr::map_dfr(entries, extract_info) # equivalent (though faster) to base::apply but output is a dataframe
 
+# Checking for genes names in df_spec
+unique(df_spec$gene)
+
 # keep only the rows where the gene name is BMP4 or AHSG (some entries are from rentrez returning similar genes such as BMP7 or PAX6, which are also involved in bone development)
 df_spec <- df_spec %>%
-                filter(gene %in% c("BMP4", "AHSG")) %>% # still ~ 270 observations
+    mutate(gene = str_trim(gene)) %>%  # Remove any leading/trailing whitespace or special characters
+    filter(gene %in% c("BMP4", "AHSG")) %>% # still ~ 270 observations
                 drop_na # remove rows with NAs using tidyr's drop_na fn
 
 # Visualize
@@ -148,6 +152,66 @@ if (!file.exists("./data/AHSG/NC_021681.1.fasta")) { # test case, it will exist 
 # drop unnecessary rows
 df_seqspec <- df_seqspec[, c("gene", "species_name", "accession_id", "sequence"), drop = TRUE]
 
+```
+
+#### Function: Sequence Quality Check and Filter Based on Gaps and "N" Content ----
+
+```{r}
+quality_check_and_filter_sequences <- function(df) {
+  # Initialize a list to store quality check results
+  Results <- list()
+  
+  # Count initial number of sequences
+  initial_count <- nrow(df)
+  
+  # Quality Checks
+  # Check for sequences containing gaps ('-')
+  Results$gaps_count <- sum(str_detect(df$sequence, "-"))
+  
+  # Check for sequences starting with 'N'
+  Results$start_N_count <- sum(str_detect(df$sequence, "^N"))
+  
+  # Check for sequences ending with 'N'
+  Results$end_N_count <- sum(str_detect(df$sequence, "N$"))
+  
+  # Check for sequences with high 'N' content (>=5% of sequence length)
+  Results$high_N_content_count <- sum(str_count(df$sequence, "N") >= (0.05 * str_length(df$sequence)))
+  
+  # Print quality check results
+  cat("Quality Check Results:\n")
+  cat("Count of sequences with gaps:", Results$gaps_count, "\n")
+  cat("Count of sequences starting with 'N':", Results$start_N_count, "\n")
+  cat("Count of sequences ending with 'N':", Results$end_N_count, "\n")
+  cat("Count of sequences with high 'N' content:", Results$high_N_content_count, "\n")
+  
+  # Filter sequences based on quality checks
+  df <- df %>%
+    filter(
+      !str_detect(sequence, "-") &                   # Remove sequences with gaps
+        !str_detect(sequence, "^N") &                  # Remove sequences starting with 'N'
+        !str_detect(sequence, "N$") &                  # Remove sequences ending with 'N'
+        str_count(sequence, "N") < (0.05 * str_length(sequence))  # Remove sequences with high 'N' content
+    )
+  
+  # Calculate number of final and filtered out sequences 
+  final_count <- nrow(df)
+  filtered_count <- initial_count - final_count
+  
+  # Print the number of initial, filltered out and final sequences
+  cat("Initial sequence count:", initial_count, "\n")
+  cat("Total sequences filtered out:", filtered_count, "\n")
+  cat("Final sequence count:", final_count, "\n")
+  
+  # Return the filtered dataframe
+  return(df)
+}
+
+# Apply the sequence quality check and filtering function to df_seqspec
+df_seqspec <- quality_check_and_filter_sequences(df_seqspec)
+
+```
+
+```{r}
 # show quartiles for sequence length in AHSG and BMP4, respectively
 cat("Summary of quartiles in sequence lengths for AHSG \n")
 df_seqspec %>%
@@ -163,36 +227,56 @@ df_seqspec %>%
   summary
 ```
 
-#### Compute k-mers with Biostrings and Jellyfish
+### Filter outliers with very long sequences ----
+```{r echo = TRUE, fig.show = "hide"}
 
-```{r}
-# computing 1-mer, 2-mer and 3-mers with Biostrings
-
-# 1-mers as proportions
-df_1mer <- df_seqspec$sequence %>%
-              Biostrings::DNAStringSet(.) %>%
-              Biostrings::letterFrequency(letters = c("A", "T", "G", "C"), as.prob = TRUE) %>%
-              as.data.frame %>%
-              cbind(df_seqspec[, c("gene", "accession_id"), drop = T], .)
-
-# 2-mers as proportions
-df_2mer <- df_seqspec$sequence %>%
-              Biostrings::DNAStringSet(.) %>%
-              Biostrings::dinucleotideFrequency(., as.prob = TRUE) %>%
-              as.data.frame %>%
-              mutate_all(~ round(., 2)) %>% # round to two decimal places
-              cbind(df_seqspec[, c("gene", "accession_id"), drop = T], .)
-
-# 3-mers as proportions
-df_3mer <- df_seqspec$sequence %>%
-              Biostrings::DNAStringSet(.) %>%
-              Biostrings::trinucleotideFrequency(., as.prob = TRUE) %>%
-              as.data.frame %>%
-              mutate_all(~ round(., 2)) %>% # round to two decimal places
-              cbind(df_seqspec[, c("gene", "accession_id"), drop = T], .)
+# Extract sequence lengths for each gene
+ahsg_lengths <- nchar(df_seqspec %>% filter(gene == "AHSG") %>% pull(sequence))
+bmp4_lengths <- nchar(df_seqspec %>% filter(gene == "BMP4") %>% pull(sequence))
+# Initial boxplot of sequence lengths by gene
+boxplot(ahsg_lengths, bmp4_lengths,
+        names = c("AHSG", "BMP4"), 
+        main = "Initial Distribution of Sequence Lengths by Gene",
+        ylab = "Sequence Length",
+        col = c("lightblue", "lightgreen"))
+# Filter out BMP4 sequences with lengths greater than 5000 (extreme outliers)
+df_seqspec <- df_seqspec %>%
+  filter(!(gene == "BMP4" & nchar(sequence) > 5000)) 
+# Check the count of sequences for each gene
+table(df_seqspec$gene)
+# Extract sequence lengths for each gene after filtering outliers
+ahsg_lengths <- nchar(df_seqspec %>% filter(gene == "AHSG") %>% pull(sequence))
+bmp4_lengths <- nchar(df_seqspec %>% filter(gene == "BMP4") %>% pull(sequence))
+# Boxplot of sequence lengths by gene after filtering
+boxplot(ahsg_lengths, bmp4_lengths,
+        names = c("AHSG", "BMP4"), 
+        main = "Distribution of Sequence Lengths by Gene (Filtered)",
+        ylab = "Sequence Length",
+        col = c("lightblue", "lightgreen"))
+# Filtered out extreme outliers with sequence length > 5000. 
+# Filtering by quartiles was not feasible, as it would have reduced the dataset to only 124 sequences across both genes.
 ```
 
-##### Generate histogram of 1-, 2- and 3-mer frequencies as probabilities
+# Function to calculate k-mer frequencies for DNA sequences in a dataframe
+```{r}
+calculate_kmer_frequencies <- function(df_seqspec, k) {
+  df_kmer <- df_seqspec$sequence %>%
+    DNAStringSet() %>%  # Convert sequences to DNAStringSet for DNA operations
+    oligonucleotideFrequency(width = k, as.prob = TRUE) %>% # Calculate k-mer frequencies as proportions
+    as.data.frame() %>%  # Convert the result to a dataframe for further manipulation
+    mutate_all(~ round(., 2)) %>%                 # Round all frequency values to 2 decimal places
+    cbind(df_seqspec[, c("gene", "accession_id"), drop = TRUE], .) # Combine with gene and accession_id columns
+  
+  return(df_kmer) # Return the resulting dataframe with k-mer frequencies
+}
+
+# Calculate 1-mer, 2-mer, and 3-mer frequencies using the kmer_function
+df_1mer <- calculate_kmer_frequencies(df_seqspec, 1)
+df_2mer <- calculate_kmer_frequencies(df_seqspec, 2)
+df_3mer <- calculate_kmer_frequencies(df_seqspec, 3)
+```
+
+##### Generate a density plot of the probabilities of 1-, 2-, and 3-mer frequencies
 
 ```{r}
 # add a column to each data frame to indicate k-mer size
@@ -207,22 +291,50 @@ df_combined <- bind_rows(df_1mer_hist, df_2mer_hist, df_3mer_hist)
 df_long <- df_combined %>%
   pivot_longer(cols = -c(accession_id, gene, kmer_size), names_to = "kmer", values_to = "probability")
 
-# facet by both gene and k-mer size for a 2x3 plot 
-hist <- ggplot(df_long, aes(x = probability)) +
-  geom_histogram(binwidth = 0.005, fill = "skyblue", color = "grey30") +
-  facet_wrap(~ gene + kmer_size, scales = "free_y") +  # Independent y-axis for each combination of gene and k-mer size
-  labs(x = "Probability of k-mer occurrence", y = "Number of k-mers",
-       title = "Histogram of k-mer probabilities for differing k-mer sizes in AHSG and BMP4") +
-  theme_minimal()
+# Plot density of k-mer probabilities by gene and k-mer size
+densityplot <- ggplot(df_long, aes(x = probability, fill = gene, color = gene)) +
+  # Adjust transparency and outline size
+  geom_density(alpha = 0.3, linewidth = 0.8) +
+  
+  # Set different colors for each gene
+  scale_fill_manual(values = c("AHSG" = "#E69F00", "BMP4" = "#56B4E9")) +
+  scale_color_manual(values = c("AHSG" = "#D55E00", "BMP4" = "#0072B2")) +
+  
+  # Facet by k-mer size with independent y-axes
+  facet_wrap(~ kmer_size, scales = "free") +
+  
+  # Add labels for axes, title, and subtitle
+  labs(
+    x = "Probability of k-mer Occurrence", 
+    y = "Density",                           
+    title = "Density Plot of k-mer Probabilities for Different k-mer Sizes",   
+    subtitle = "Comparison of AHSG and BMP4 genes"
+  ) +
+  
+  # Minimal theme for a clean look
+  theme_minimal() + 
+  
+  # Customize plot theme for improved readability and styling
+  theme(
+    plot.title = element_text(hjust = 0.5, face = "bold", size = 20),
+    plot.subtitle = element_text(hjust = 0.5, size = 18),
+    axis.title = element_text(size = 18, face = "bold"),
+    axis.text = element_text(size = 16),
+    strip.text = element_text(size = 18, face = "bold"),
+    legend.position = "top",
+    legend.title = element_blank(),
+    legend.text = element_text(size = 16, face = "bold")
+  )
 
 # Save the plot if it doesn't already exist
-if (!file.exists("./figs/small_mer_histogram.png")) {
-  ggsave(filename = "./figs/small_mer_histogram.png", plot = hist, width = 12, height = 8, dpi = 600)
+if (!file.exists("./figs/small_mer_densityplot.png")) {
+  ggsave(filename = "./figs/small_mer_densityplot.png", plot = densityplot, width = 12, height = 8, dpi = 600)
 }
 # Show plot in R markdown (below)
 ```
+![Figure Caption: Density plot showing the distribution of k-mer probabilities for AHSG and BMP4 genes across different k-mer sizes. An inverse relationship is observed between k-mer size and the probability of occurrence, where larger k-mer sizes correspond to lower probabilities of dominant patterns.](./figs/small_mer_densityplot.png)
 
-![Figure Caption: Number of k-mers for a given probability of occurence within the given dataset. As k increases, the inverse relationship between the probability of a k-mer occuring and k-mer frequency becomes more clear. In other words, as k increases, the probability of a dominant pattern decreases.](./figs/small_mer_histogram.png)
+
 
 ```{r eval = FALSE}
 # I attempted to compute larger k-mers using Jellyfish (installed in the bash shell according to the instructions on gmarcais/jellyfish github)
