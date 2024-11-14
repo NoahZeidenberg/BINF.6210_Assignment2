@@ -306,6 +306,9 @@ densityplot <- ggplot(df_long, aes(x = probability, fill = gene, color = gene)) 
   # Facet by k-mer size with independent y-axes
   facet_wrap(~ kmer_size, scales = "free") +
   
+  # Set x-axis to start from zero
+  scale_x_continuous(limits = c(0, NA)) +
+  
   # Add labels for axes, title, and subtitle
   labs(
     x = "Probability of k-mer Occurrence", 
